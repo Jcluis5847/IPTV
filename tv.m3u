@@ -55,77 +55,48 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?Pla
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
-B
-TRECETV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/640px-Canal13_logo.png", El Trece (ARG) 
 http://tv.teleclub.xyz/stream/Paises/El_Trece/index.m3u8 
-ARGENTINISIMASATELITAL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png", Argentinisima Satelital 
 http://tv.teleclub.xyz/stream/Argentina/ARGENTINISIMA_SATELITAL/index.m3u8 
-ATV ATGRNYINA
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/4e64ef1ad0267a25797ca662d9010e2a.png", ATV Argentina
 http://tv.teleclub.xyz/stream/Argentina/ATV_ARGENTINA/index.m3u8
-CANAL 10 MAr del plata	
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-f0VOu8Vxwc8/Xx4ETCnOtTI/AAAAAAAA3g8/frInrFqrNk4ohqQaNUQRq2BcedFlMU_IgCK8BGAsYHg/s0/2020-07-26.png", Canal 10 Mar del Plata 
 http://tv.teleclub.xyz/stream/Argentina/CANAL_10_MAR_DEL_PLATA/index.m3u8 
-CANAL 26
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 
 http://tv.teleclub.xyz/stream/Argentina/CANAL_26/index.m3u8 
-CANAL 9 LITORAL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png, Canal 9 Litoral 
 http://tv.teleclub.xyz/stream/Argentina/CANAL_9_LITORAL/index.m3u8
-FM 90.7
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iVDSiV3mNXI/Xxoun2Z7-xI/AAAAAAAA3PY/hYRBs3H5ifoKv1w8L1qK729jzwo1xU5HgCK8BGAsYHg/s0/2020-07-23.png",90.7 FM Comunicar 
 http://tv.teleclub.xyz/stream/Argentina/CANAL_907_FM_COMUNICAR/index.m3u8 
-CANAL RURAL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural 
 http://tv.teleclub.xyz/stream/Argentina/CANAL_RURAL/index.m3u8
-NET TV
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV 
 http://tv.teleclub.xyz/stream/Argentina/NET_TV/index.m3u8 
-
-INFANTILES 
-
-CartoonNetwork
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg", Cartoon Network
 http://tv.teleclub.xyz/stream/Infantil/CARTOON_NETWORK/index.m3u8 
-DisneyChannel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg", Disney Channel
 http://tv.teleclub.xyz/stream/Infantil/DISNEY_CHANNEL/index.m3u8 
-DisneyJr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg", Disney Jr
 http://tv.teleclub.xyz/stream/Infantil/DISNEY_JUNIOR/index.m3u8 
-DiscoveryKids
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png", Discovery Kids
 http://tv.teleclub.xyz/stream/Infantil/DISCOVERY_KIDS/index.m3u8
-Nick
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg", Nick
 http://tv.teleclub.xyz/stream/Infantil/NICK/index.m3u8 
-NickJr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg", NICK Jr
 http://tv.teleclub.xyz/stream/Infantil/NICK_JR/index.m3u8
-ToonCast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png", Tooncast 
 http://tv.teleclub.xyz/stream/Infantil/TOONCAST/index.m3u8
-BitMe
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png", Bitme 
 http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8 
-Cartoonito1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png", Cartoonito 
 http://tv.teleclub.xyz/stream/Infantil/CARTOONITO/index.m3u8 
-Cartoonito2
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200", Cartoonito 2
 http://tv.teleclub.xyz/stream/Infantil/CN2_LA/index.m3u8 
-PakaPaka
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?Playlis
-LatinoKids
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV 
 http://tv.teleclub.xyz/stream/Argentina/LATINO_KIDS_TV/index.m3u8
-
-
-ENTRETENIMIENTO
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png", Star Channel 
 http://tv.teleclub.xyz/stream/Entretenimiento/STAR_CHANNEL/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg", Warner TV 
@@ -182,9 +153,6 @@ http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
 http://tv.teleclub.xyz/stream/Entretenimiento/RAKUTENTV_ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A3Cine.png/640px-A3Cine.png", A3CINE 
 http://tv.teleclub.xyz/stream/Entretenimiento/A3CINE_LAT/index.m3u8 
-
-DEPORTES
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png", Directv 
 http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png", Directv 2 
@@ -218,43 +186,3 @@ http://tv.teleclub.xyz/stream/Deportes/MAN_UNITEDTV/index.m3u8
 http://tv.teleclub.xyz/stream/Deportes/NFL_CHANNEL/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", Adrenalina Sports Network 
 http://tv.teleclub.xyz/stream/Deportes/ADRENALINA/index.m3u8 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
