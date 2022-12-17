@@ -61,8 +61,6 @@ http://tv.teleclub.xyz/stream/Paises/El_Trece/index.m3u8
 http://tv.teleclub.xyz/stream/Argentina/ARGENTINISIMA_SATELITAL/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/4e64ef1ad0267a25797ca662d9010e2a.png", ATV Argentina
 http://tv.teleclub.xyz/stream/Argentina/ATV_ARGENTINA/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-f0VOu8Vxwc8/Xx4ETCnOtTI/AAAAAAAA3g8/frInrFqrNk4ohqQaNUQRq2BcedFlMU_IgCK8BGAsYHg/s0/2020-07-26.png", Canal 10 Mar del Plata 
-http://tv.teleclub.xyz/stream/Argentina/CANAL_10_MAR_DEL_PLATA/index.m3u8 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 
 http://tv.teleclub.xyz/stream/Argentina/CANAL_26/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png, Canal 9 Litoral 
