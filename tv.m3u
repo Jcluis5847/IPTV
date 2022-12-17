@@ -1,0 +1,260 @@
+#EXTM3U
+#EXTINF: -1 tvh-chno="8" tvg-logo="https://i.imgur.com/JQp1zsJ.jpg",Canal 8 Mar del Plata
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png",TELEFE
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-f0VOu8Vxwc8/Xx4ETCnOtTI/AAAAAAAA3g8/frInrFqrNk4ohqQaNUQRq2BcedFlMU_IgCK8BGAsYHg/s0/2020-07-26.png", Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/512px-A24_%282019-1%29.png",A24 HD
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOQ9zOI.png",América Sports
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" user-agent="iPhone",América TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BabyTV
+http://194.163.179.246/slovenci/djeciji/babytv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",Boomerang
+http://45.5.8.78:8000/play/a00i
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/512px-C5N_2017_Alternate.svg.png",C5N
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png",Canal 79 Mar del Plata
+https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png",Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/512px-Cine.Ar_logo.svg.png",CINE.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/cd0hP5e.png",El Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.emediapp.com/image/logo-metro.png",Metro TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-id="Mirador.ar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mirador-ar.png",MiradorTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aeDaRl4.png",Motorvision TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U872KLT.png",SoloStandUp
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i1x1zzn.png",TEC TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/512px-TN_todo_noticias_logo.svg.png",TN Todo Noticias
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d7aBdwS.png",Vorterix
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png", Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4e64ef1ad0267a25797ca662d9010e2a.png", ATV Argentina
+https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png", DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
+B
+TRECETV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/640px-Canal13_logo.png", El Trece (ARG) 
+http://tv.teleclub.xyz/stream/Paises/El_Trece/index.m3u8 
+ARGENTINISIMASATELITAL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png", Argentinisima Satelital 
+http://tv.teleclub.xyz/stream/Argentina/ARGENTINISIMA_SATELITAL/index.m3u8 
+ATV ATGRNYINA
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4e64ef1ad0267a25797ca662d9010e2a.png", ATV Argentina
+http://tv.teleclub.xyz/stream/Argentina/ATV_ARGENTINA/index.m3u8
+CANAL 10 MAr del plata	
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-f0VOu8Vxwc8/Xx4ETCnOtTI/AAAAAAAA3g8/frInrFqrNk4ohqQaNUQRq2BcedFlMU_IgCK8BGAsYHg/s0/2020-07-26.png", Canal 10 Mar del Plata 
+http://tv.teleclub.xyz/stream/Argentina/CANAL_10_MAR_DEL_PLATA/index.m3u8 
+CANAL 26
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 
+http://tv.teleclub.xyz/stream/Argentina/CANAL_26/index.m3u8 
+CANAL 9 LITORAL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png, Canal 9 Litoral 
+http://tv.teleclub.xyz/stream/Argentina/CANAL_9_LITORAL/index.m3u8
+FM 90.7
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iVDSiV3mNXI/Xxoun2Z7-xI/AAAAAAAA3PY/hYRBs3H5ifoKv1w8L1qK729jzwo1xU5HgCK8BGAsYHg/s0/2020-07-23.png",90.7 FM Comunicar 
+http://tv.teleclub.xyz/stream/Argentina/CANAL_907_FM_COMUNICAR/index.m3u8 
+CANAL RURAL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg", Canal Rural 
+http://tv.teleclub.xyz/stream/Argentina/CANAL_RURAL/index.m3u8
+NET TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV 
+http://tv.teleclub.xyz/stream/Argentina/NET_TV/index.m3u8 
+
+INFANTILES 
+
+CartoonNetwork
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg", Cartoon Network
+http://tv.teleclub.xyz/stream/Infantil/CARTOON_NETWORK/index.m3u8 
+DisneyChannel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg", Disney Channel
+http://tv.teleclub.xyz/stream/Infantil/DISNEY_CHANNEL/index.m3u8 
+DisneyJr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg", Disney Jr
+http://tv.teleclub.xyz/stream/Infantil/DISNEY_JUNIOR/index.m3u8 
+DiscoveryKids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png", Discovery Kids
+http://tv.teleclub.xyz/stream/Infantil/DISCOVERY_KIDS/index.m3u8
+Nick
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg", Nick
+http://tv.teleclub.xyz/stream/Infantil/NICK/index.m3u8 
+NickJr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg", NICK Jr
+http://tv.teleclub.xyz/stream/Infantil/NICK_JR/index.m3u8
+ToonCast
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png", Tooncast 
+http://tv.teleclub.xyz/stream/Infantil/TOONCAST/index.m3u8
+BitMe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png", Bitme 
+http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8 
+Cartoonito1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png", Cartoonito 
+http://tv.teleclub.xyz/stream/Infantil/CARTOONITO/index.m3u8 
+Cartoonito2
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200", Cartoonito 2
+http://tv.teleclub.xyz/stream/Infantil/CN2_LA/index.m3u8 
+PakaPaka
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?Playlis
+LatinoKids
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV 
+http://tv.teleclub.xyz/stream/Argentina/LATINO_KIDS_TV/index.m3u8
+
+
+ENTRETENIMIENTO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png", Star Channel 
+http://tv.teleclub.xyz/stream/Entretenimiento/STAR_CHANNEL/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg", Warner TV 
+http://tv.teleclub.xyz/stream/Entretenimiento/WARNER_TV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg", AXN 
+http://tv.teleclub.xyz/stream/Entretenimiento/AXN/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg", FX 
+http://tv.teleclub.xyz/stream/Entretenimiento/FX/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg", TBS 
+http://tv.teleclub.xyz/stream/Entretenimiento/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png", TNT 
+http://tv.teleclub.xyz/stream/Entretenimiento/TNT/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg", TNT Series 
+http://tv.teleclub.xyz/stream/Entretenimiento/TNT_SERIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg", Cinemax 
+http://tv.teleclub.xyz/stream/Entretenimiento/CINEMAX/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg", Sony 
+http://tv.teleclub.xyz/stream/Entretenimiento/SONY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg", Cinecanal 
+http://tv.teleclub.xyz/stream/Entretenimiento/CINECANAL/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg", HBO 
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg", HBO 2 
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg", HBO + 
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_PLUS/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg", HBO Mundi 
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_MUNDI/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg", HBO Pop 
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_POP/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg", HBO Signature 
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg", HBO Xtreme 
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_XTREME/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg", HBO Family 
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_FAMILY/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png", Golden 
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png", Golden Edge 
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png", Golden Premier 
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PREMIER/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png", Golden Plus 
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PLUS/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg", AMC 
+http://tv.teleclub.xyz/stream/Entretenimiento/AMC/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg", SPACE 
+http://tv.teleclub.xyz/stream/Entretenimiento/SPACE/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png", Universal Premiere 
+http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1Bjuah.png", Universal Reality 
+http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/6201784bf2f75f000484e723.png", Rakuten TV Action Movies
+http://tv.teleclub.xyz/stream/Entretenimiento/RAKUTENTV_ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A3Cine.png/640px-A3Cine.png", A3CINE 
+http://tv.teleclub.xyz/stream/Entretenimiento/A3CINE_LAT/index.m3u8 
+
+DEPORTES
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png", Directv 
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png", Directv 2 
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png", Directv + 
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg", ESPN Sur 
+http://tv.teleclub.xyz/stream/Deportes/ESPN_SUR/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg", ESPN 2 Sur 
+http://tv.teleclub.xyz/stream/Deportes/ESPN_2_SUR/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg", ESPN 3 Sur 
+http://tv.teleclub.xyz/stream/Deportes/ESPN_3_SUR/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg", ESPN Extra 
+http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRdHIX9.png", Fox Sports Premium 
+http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
+http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg", Fox Sports Sur 
+http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_SUR/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg", Fox Sports 2 Sur 
+http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_SUR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg", Fox Sports 3 Sur 
+http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_SUR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png", TyC Sports 
+http://tv.teleclub.xyz/stream/Deportes/TYC_SPORTS/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvNnvA9.png", Real Madrid TV ESPAÑA
+http://tv.teleclub.xyz/stream/Deportes/RM_TV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png", Manchester United TV 
+http://tv.teleclub.xyz/stream/Deportes/MAN_UNITEDTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png", NFL Channel 
+http://tv.teleclub.xyz/stream/Deportes/NFL_CHANNEL/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", Adrenalina Sports Network 
+http://tv.teleclub.xyz/stream/Deportes/ADRENALINA/index.m3u8 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
