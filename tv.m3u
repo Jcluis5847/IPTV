@@ -184,3 +184,13 @@ http://tv.teleclub.xyz/stream/Deportes/MAN_UNITEDTV/index.m3u8
 http://tv.teleclub.xyz/stream/Deportes/NFL_CHANNEL/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", Adrenalina Sports Network 
 http://tv.teleclub.xyz/stream/Deportes/ADRENALINA/index.m3u8 
+
+#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg",Volver al Futuro 
+http://tvpremiumhd.club/lista-gratuita/214010/on/lives.php?id=archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg",Volver al Futuro 3
+http://tvpremiumhd.club/lista-gratuita/214010/on/lives.php?id=archive.org/download/qwerty3/qwerty3.mkv
+#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg",Your Name
+http://tvpremiumhd.club/lista-gratuita/214010/on/lives.php?id=archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg",Jhonny English 3.0
+http://tvpremiumhd.club/lista-gratuita/214010/on/lives.php?id=archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg",Volver al Futuro
