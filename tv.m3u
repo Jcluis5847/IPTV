@@ -52,7 +52,7 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/512px-TN_todo_noticias_logo.svg.png",TN Todo Noticias
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Pública
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d7aBdwS.png",Vorterix
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
@@ -70,7 +70,7 @@ http://tv.teleclub.xyz/stream/Argentina/ARGENTINISIMA_SATELITAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/4e64ef1ad0267a25797ca662d9010e2a.png", ATV Argentina
 http://tv.teleclub.xyz/stream/Argentina/ATV_ARGENTINA/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 
-http://tv.teleclub.xyz/stream/Argentina/CANAL_26/index.m3u8 
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png, Canal 9 Litoral 
 http://tv.teleclub.xyz/stream/Argentina/CANAL_9_LITORAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iVDSiV3mNXI/Xxoun2Z7-xI/AAAAAAAA3PY/hYRBs3H5ifoKv1w8L1qK729jzwo1xU5HgCK8BGAsYHg/s0/2020-07-23.png",90.7 FM Comunicar 
@@ -253,6 +253,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b
 
 DEPORTES
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg", CLARO SPORTS
+http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png",beIN SPORTS XTRA en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png", Directv 
