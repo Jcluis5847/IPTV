@@ -21,6 +21,12 @@ http://45.5.8.78:8000/play/a00i
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png",Canal 79 Mar del Plata
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 SANTA CLARA DEL MAR
+https://streamconex.com:1936/santaclara/santaclara/chunklist_w1081202181.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 LA COSTA
+https://streamconex.com:1936/lacosta/lacosta/chunklist_w643362361.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 PUAN
+https://streamconex.com:1936/puan/puan/chunklist_w1243153313.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png",Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/512px-Cine.Ar_logo.svg.png",CINE.AR
